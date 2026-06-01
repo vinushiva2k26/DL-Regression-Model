@@ -8,6 +8,7 @@ Regression problems involve predicting a continuous output variable based on inp
 
 ## Neural Network Model
 Include the neural network model diagram.
+![Output](<Screenshot 2026-06-01 135016.png>)
 
 ## DESIGN STEPS
 ### STEP 1: Generate Dataset
